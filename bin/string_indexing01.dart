@@ -8,5 +8,5 @@ String func(String s) {
     """;
   //your code here
 
-  return '';
+  return ' ';
 }
